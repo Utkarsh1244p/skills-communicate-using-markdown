@@ -4,3 +4,5 @@
 #### heading4
 ##### heading5
 ###### heading6
+
+![Image of Solo](solo.png)
