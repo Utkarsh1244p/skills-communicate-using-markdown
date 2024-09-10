@@ -5,4 +5,9 @@
 ##### heading5
 ###### heading6
 
+``` python
+msg = "Hello, world!";
+```
+
 ![Image of Solo](solo.png)
+
